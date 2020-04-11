@@ -1,2 +1,4 @@
-# Annotated-aerial-imagery-dataset
-Annotated aerial imagery dataset. The orthophotos originally are downloaded from https://geoportaal.maaamet.ee/. I have annotated them myself for research 
+# Annotated Aerial Imagery Dataset
+
+I have downloaded the orthophotos from https://geoportaal.maaamet.ee/. I also have annotated them myself for the research 
+in computer vision and deep learning
