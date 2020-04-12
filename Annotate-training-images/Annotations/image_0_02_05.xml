@@ -1,0 +1,24 @@
+<annotation>
+  <folder>image</folder>
+  <filename>image_0_02_05.png</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>2000</width>
+    <height>2000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Airplane</name>
+    <bndbox>
+      <xmin>869.4296875</xmin>
+      <ymin>676.263671875</ymin>
+      <xmax>1253.2051391601562</xmax>
+      <ymax>1131.3116760253906</ymax>
+    </bndbox>
+  </object>
+</annotation>
