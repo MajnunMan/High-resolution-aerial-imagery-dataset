@@ -1,8 +1,6 @@
-## Object detection from High-Resolution Aerial Imagery
-
 ## Annotated Aerial Imagery Dataset
 
-The hihg-resolution imageries are collected from [Land Board of Republic of Estonia](https://geoportaal.maaamet.ee/). We use [CVAT](https://github.com/opencv/cvat) to annotate the objects of interest. In this dataset the objects of interest are Car, Airplane, Bus, Watercraft, Building and Truck. These imageries are high-resolution with 1:2000 scale. Moreover, the images were captured from 1250m altitude, with focal length of 120mm by using Leica ADS100-SH100 . The imagery dimension is 10000x10000 pixels. The Ground Sample Distance for these orthophotos is 10cm (quite high).
+The high-resolution imageries are collected from [Land Board of Republic of Estonia](https://geoportaal.maaamet.ee/). We use [CVAT](https://github.com/opencv/cvat) to annotate the objects of interest. In this dataset the objects of interest are Car, Airplane, Bus, Watercraft, Building and Truck. These imageries are high-resolution with 1:2000 scale. Moreover, the images were captured from 1250m altitude, with focal length of 120mm by using Leica ADS100-SH100 . The imagery dimension is 10000x10000 pixels. The Ground Sample Distance for these orthophotos is 10cm (quite high).
 
 The training dataset contains overall 236 images. Every object of interest in those images are annotated. Totally making ~18k object instances.
 In the following table we can see the distribution of the objects of interest in both test and training datasets.
